@@ -1,0 +1,33 @@
+.main-todo {
+    padding: 50px 600px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(65, 65, 151);
+}
+
+button {
+    background-color: rgb(65, 65, 151);
+    color: aliceblue;
+    border: none;
+}
+
+input {
+    border: 1px solid rgb(65, 65, 151);
+    border-radius: 3px;
+}
+
+.todo-form {
+    padding-bottom: 10px;
+}
+
+.todo-row {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(65, 65, 151);
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+}
